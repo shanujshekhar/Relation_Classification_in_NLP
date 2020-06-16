@@ -25,7 +25,8 @@
 
 - This weighted sum is then passed to the decoder layer which basically classifies the each sentence (i.e. sequence) in the batch into 19 relations.
 
-Figure of the model is included in the report.pdf under Model Architecture.
+## Figure of the model
+<img src="./Model_Architecture.JPG" width="700">
 
 ## References:
 [1] Combining Recurrent and Convolutional Neural Networks for Relation Classification
